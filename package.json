@@ -1,0 +1,20 @@
+{
+  "name": "cot-corejs-ext",
+  "version": "1.0.0",
+  "description": "CoT CoreJS Extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesNgo-CoT/cot-corejs-ext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesNgo-CoT/cot-corejs-ext/issues"
+  },
+  "homepage": "https://github.com/JamesNgo-CoT/cot-corejs-ext#readme"
+}
